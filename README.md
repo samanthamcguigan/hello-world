@@ -1,4 +1,4 @@
 # hello-world
 Week12 ACourse PreWork
 
-Just writing a little bit to see how the committ action works
+Hi, my name is Sam and I am in the Edison Engineering Development Program at GE
